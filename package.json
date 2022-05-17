@@ -1,6 +1,6 @@
 {
-  "name": "fase-2---classapp",
-  "version": "1.0.0",
+  "name": "fase-2",
+  "version": "0.8.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alison",
   "license": "ISC"
 }

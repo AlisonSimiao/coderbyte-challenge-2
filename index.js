@@ -1,7 +1,7 @@
 const { readFile, writeFile } = require('fs/promises');
 const HEADER = 0;
 
-function compare(value) {
+function compareValues(value) {
   if (value == 0 || value == 'no' || value == '')
     return false;
 
@@ -24,7 +24,7 @@ async function main() {
     const data = [];
 
     for (let person = 1; person < CSVFileCutLines.length; person++) {
-      
+
       const personValues = CSVFileCutLines[person].split(",");
 
       const newPerson = {
@@ -53,7 +53,7 @@ async function main() {
               break;
             }
 
-            newPerson[keys[i]] = compare(personValues[i]);
+            newPerson[keys[i]] = compareValues(personValues[i]);
         }
       }
 
