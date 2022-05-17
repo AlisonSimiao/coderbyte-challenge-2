@@ -1,4 +1,4 @@
-# Challenge
+# Challenge 2
 
 ## coderbyte chalenge 2
 Create a program in Node.js where the input defined in input.csv is parsed and organized into the content shown in output.json. (see examples on section Examples)
@@ -16,7 +16,7 @@ Here are two examples of inputs and the outputs your code should generate for ea
 
 ### Example 1
 - [input.csv](https://gist.githubusercontent.com/lucas-brito/a38fbf18aa9811ebd544959f0d657a30/raw/6ad090aeb302c2ba4b8a0dc2c7dc373af17d9346/input.csv)  
--[output.json](https://gist.githubusercontent.com/lucas-brito/a38fbf18aa9811ebd544959f0d657a30/raw/6ad090aeb302c2ba4b8a0dc2c7dc373af17d9346/output.json)
+- [output.json](https://gist.githubusercontent.com/lucas-brito/a38fbf18aa9811ebd544959f0d657a30/raw/6ad090aeb302c2ba4b8a0dc2c7dc373af17d9346/output.json)
 
 ### Example 2
  - [input1.csv](https://gist.githubusercontent.com/lucas-brito/a38fbf18aa9811ebd544959f0d657a30/raw/dc929e2f9c8830149c7b443a26036a98133554c0/input1.csv)  
